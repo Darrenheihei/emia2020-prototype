@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/emia2020_team1_prototype/static/css/main.67fd34d5.css",
-    "main.js": "/emia2020_team1_prototype/static/js/main.af2764f0.js",
+    "main.js": "/emia2020_team1_prototype/static/js/main.d3ee8921.js",
     "index.html": "/emia2020_team1_prototype/index.html",
     "main.67fd34d5.css.map": "/emia2020_team1_prototype/static/css/main.67fd34d5.css.map",
-    "main.af2764f0.js.map": "/emia2020_team1_prototype/static/js/main.af2764f0.js.map"
+    "main.d3ee8921.js.map": "/emia2020_team1_prototype/static/js/main.d3ee8921.js.map"
   },
   "entrypoints": [
     "static/css/main.67fd34d5.css",
-    "static/js/main.af2764f0.js"
+    "static/js/main.d3ee8921.js"
   ]
 }
